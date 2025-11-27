@@ -12,7 +12,7 @@ public class App {
             System.out.println("Speeding ticket!!!");
 
         } else if (speed <= 40) {
-            System.out.println("Drive faster pssy!!!");
+            System.out.println("Drive faster!!!");
 
         }else{
             System.out.println("Keep driving safe, well done!!!");
