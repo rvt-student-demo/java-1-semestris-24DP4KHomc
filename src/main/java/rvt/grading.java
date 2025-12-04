@@ -8,6 +8,7 @@ public class grading {
         System.out.println("Enter points: ");
         int points = scanner.nextInt();
         String grade = "";
+        
 
         if(points < 0) {
         grade = "Impossible";
