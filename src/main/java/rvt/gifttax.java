@@ -7,6 +7,7 @@ public class gifttax {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the value of the gift: ");
         Double valuegift = scanner.nextDouble();
+        
 
             Double value = 0.0;
             if(valuegift >= 5000){
