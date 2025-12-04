@@ -15,7 +15,7 @@ public class App {
             System.out.println("Drive faster!!!");
 
         }else{
-            System.out.println("Keep driving safe, well done!!!");
+            System.out.println("Keep driving safe, well done!!!!");
         }
         scanner.close();
     }
