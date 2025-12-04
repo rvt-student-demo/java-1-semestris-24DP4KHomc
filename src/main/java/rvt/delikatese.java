@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class delikatese {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        
 
         System.out.println("Ievadi preci: ");
         String prece = scanner.nextLine();
