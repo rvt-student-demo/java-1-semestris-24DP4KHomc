@@ -47,6 +47,7 @@ public class Books {
 
         System.out.print("\nWhat information will be printed? ");
         String choice = scanner.nextLine();
+        
 
         for (Book book : books) {
             if (choice.equals("everything")) {
